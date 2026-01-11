@@ -12,7 +12,9 @@ When an event is active it will highlight the event section in red.
 You can make the active events fade from black to red by **Right-Click** > **Settings** > **Enable Active Pulsing**
 
 Currently the window will remain on top of any active windows.
-
+------------
+## Installation
+To use this app, you must have Java installed and updated to the latest version of Java. Then simply run the .jar file to launch the app.
 
 ------------
 
